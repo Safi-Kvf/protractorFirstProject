@@ -4,7 +4,7 @@ var first = function(){
 
 this.Given("Open website", function(callback){
 
-    browser.sleep(5000);
+    browser.sleep(4000);
 
     pageObjectFile.OpenWebUrl();
 
