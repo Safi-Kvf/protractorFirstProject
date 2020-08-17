@@ -1,0 +1,18 @@
+{
+  "name": "protractor_bdd_project",
+  "version": "1.0.0",
+  "description": "This is protractor with BDD framework implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safi Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "cucumber": "^1.3.2",
+    "protractor-cucumber-framework": "^6.2.1"
+  },
+  "dependencies": {
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.8.1"
+  }
+}
